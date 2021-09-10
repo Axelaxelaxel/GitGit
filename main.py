@@ -3,7 +3,7 @@ import pygame
 import sys
 import math
 
-#git committo changed for pullo
+#los branchos
 RED = (255,0,0)
 YELLOW = (255,255,0)
 BLACK = (0,0,0)
